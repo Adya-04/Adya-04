@@ -23,7 +23,8 @@ Hi, I'm Adya Singh - a passionate Android Developer and 2nd-year B.Tech IT stude
 - 🛠 Currently working on:
   - **LineUP**: A gaming app for college students.  
   - **Planzee**: Generate MVPs, business plans, and monetization strategies from user ideas.  
-  - **Tweet App**: Share and explore content. 
+  - **Tweet App**: Share and explore content.
+  - **Video Calling App**: Built for an educational platform.
 
 - 🌟 Recent Achievements:  
   - Second Runner-Up at **NASA Space Apps Hackathon** with **CarbonQuest**.  
